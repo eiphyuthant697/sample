@@ -1,0 +1,8 @@
+[24-May-2021 05:01:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/cp557932/public_html/web-dev/sample/wp-content/themes/NextInnovation_20210216/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/cp557932/public_html/web-dev/sample/wp-content/themes/NextInnovation_20210216/index.php on line 1
+[24-May-2021 05:01:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/cp557932/public_html/web-dev/sample/wp-content/themes/NextInnovation_20210216/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/cp557932/public_html/web-dev/sample/wp-content/themes/NextInnovation_20210216/index.php on line 1
